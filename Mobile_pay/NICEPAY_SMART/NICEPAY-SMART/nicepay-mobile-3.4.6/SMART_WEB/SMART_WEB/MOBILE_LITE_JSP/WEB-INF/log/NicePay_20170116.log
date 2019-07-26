@@ -1,0 +1,66 @@
+[13:38:10] INFO <0001> Start NicePay ( VERSION : ver_nicepayJL_20130910_01 ) 
+[13:38:10] INFO actionType : PY0
+[13:38:10] INFO GENERATE TID : nicepay00m03011701161338103509
+[13:38:10] INFO <0001> 전문 type :: 승인 요청
+[13:38:10] INFO <0001> 파라메터 체크 :: 정상
+[13:38:10] INFO <0001> 전문 생성 :: 정상
+[13:38:11] INFO <0001> PGWEB 통신 :: 정상
+[13:38:11] INFO <0001> 수신 전문 처리 :: 정상
+[13:38:11] INFO <0001> TID : nicepay00m03011701161338103509
+[13:38:11] INFO <0001> RESULT : [4100] 가상계좌 발급 성공
+[13:38:11] INFO <0001> End NicePay
+[13:38:30] INFO <0002> Start NicePay ( VERSION : ver_nicepayJL_20130910_01 ) 
+[13:38:30] INFO actionType : PY0
+[13:38:30] INFO GENERATE TID : nicepay00m03011701161338305309
+[13:38:30] INFO <0002> 전문 type :: 승인 요청
+[13:38:30] INFO <0002> 파라메터 체크 :: 정상
+[13:38:30] INFO <0002> 전문 생성 :: 정상
+[13:38:31] INFO <0002> PGWEB 통신 :: 정상
+[13:38:31] INFO <0002> 수신 전문 처리 :: 정상
+[13:38:31] INFO <0002> TID : nicepay00m03011701161338305309
+[13:38:31] INFO <0002> RESULT : [4100] 가상계좌 발급 성공
+[13:38:31] INFO <0002> End NicePay
+[13:38:52] INFO <0003> Start NicePay ( VERSION : ver_nicepayJL_20130910_01 ) 
+[13:38:52] INFO actionType : PY0
+[13:38:52] INFO GENERATE TID : nicepay00m03011701161338522016
+[13:38:52] INFO <0003> 전문 type :: 승인 요청
+[13:38:52] INFO <0003> 파라메터 체크 :: 정상
+[13:38:52] INFO <0003> 전문 생성 :: 정상
+[13:38:52] INFO <0003> PGWEB 통신 :: 정상
+[13:38:52] INFO <0003> 수신 전문 처리 :: 정상
+[13:38:52] INFO <0003> TID : nicepay00m03011701161338522016
+[13:38:52] INFO <0003> RESULT : [4100] 가상계좌 발급 성공
+[13:38:52] INFO <0003> End NicePay
+[13:47:33] INFO <0004> Start NicePay ( VERSION : ver_nicepayJL_20130910_01 ) 
+[13:47:33] INFO actionType : PY0
+[13:47:33] INFO GENERATE TID : nicepay00m03011701161347333729
+[13:47:33] INFO <0004> 전문 type :: 승인 요청
+[13:47:33] INFO <0004> 파라메터 체크 :: 정상
+[13:47:33] INFO <0004> 전문 생성 :: 정상
+[13:47:33] INFO <0004> PGWEB 통신 :: 정상
+[13:47:33] INFO <0004> 수신 전문 처리 :: 정상
+[13:47:33] INFO <0004> TID : nicepay00m03011701161347333729
+[13:47:33] INFO <0004> RESULT : [4100] 가상계좌 발급 성공
+[13:47:33] INFO <0004> End NicePay
+[13:53:05] INFO <0005> Start NicePay ( VERSION : ver_nicepayJL_20130910_01 ) 
+[13:53:05] INFO actionType : PY0
+[13:53:05] INFO GENERATE TID : nicepay00m03011701161353059316
+[13:53:05] INFO <0005> 전문 type :: 승인 요청
+[13:53:05] INFO <0005> 파라메터 체크 :: 정상
+[13:53:05] INFO <0005> 전문 생성 :: 정상
+[13:53:05] INFO <0005> PGWEB 통신 :: 정상
+[13:53:05] INFO <0005> 수신 전문 처리 :: 정상
+[13:53:05] INFO <0005> TID : nicepay00m03011701161353059316
+[13:53:05] INFO <0005> RESULT : [4100] 가상계좌 발급 성공
+[13:53:05] INFO <0005> End NicePay
+[13:53:20] INFO <0006> Start NicePay ( VERSION : ver_nicepayJL_20130910_01 ) 
+[13:53:20] INFO actionType : PY0
+[13:53:20] INFO GENERATE TID : nicepay00m03011701161353208408
+[13:53:20] INFO <0006> 전문 type :: 승인 요청
+[13:53:20] INFO <0006> 파라메터 체크 :: 정상
+[13:53:20] INFO <0006> 전문 생성 :: 정상
+[13:53:20] INFO <0006> PGWEB 통신 :: 정상
+[13:53:20] INFO <0006> 수신 전문 처리 :: 정상
+[13:53:20] INFO <0006> TID : nicepay00m03011701161353208408
+[13:53:20] INFO <0006> RESULT : [4100] 가상계좌 발급 성공
+[13:53:20] INFO <0006> End NicePay
